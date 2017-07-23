@@ -1,2 +1,2 @@
-# GypsythiefSources
-MkDoc source files for gypsythief.org.uk
+# Gypsythief Recipes
+MkDoc source files for www.gypsythief.org.uk/Recipes

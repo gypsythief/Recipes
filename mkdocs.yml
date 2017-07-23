@@ -1,0 +1,5 @@
+site_name: Gypsythief Recipes
+theme: 'windmill'
+extra:
+ article_nav_top: false
+ article_nav_bottom: false

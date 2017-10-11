@@ -11,7 +11,7 @@ Serves 2
 * 1 tsp Mixed Herbs
 
 #### Cheese Sauce
-* 250ml [Roux Sauce](../Dictionary of Cooking/Roux Sauce/)
+* 250ml [Roux Sauce](../../Dictionary of Cooking/Roux Sauce/)
 * 200g Mature Cheddar Cheese
 
 ### Method

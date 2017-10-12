@@ -1,2 +1,4 @@
-# Gypsythief's Recipes
+# Gypsythief Cookbook
+
+A collection of my recipes.
 

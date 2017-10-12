@@ -2,17 +2,17 @@
     "docs": [
         {
             "location": "/index.html",
-            "text": "Gypsythief's Recipes",
+            "text": "Gypsythief Cookbook\n\n\nA collection of my recipes.",
             "title": "Home"
         },
         {
-            "location": "/index.html#gypsythiefs-recipes",
-            "text": "",
-            "title": "Gypsythief's Recipes"
+            "location": "/index.html#gypsythief-cookbook",
+            "text": "A collection of my recipes.",
+            "title": "Gypsythief Cookbook"
         },
         {
             "location": "/Dictionary of Cooking/Roux Sauce/index.html",
-            "text": "Roux Sauce\n\n\nIngredients\n\n\n\n\n25g Flour\n\n\n25g Margarine\n\n\n250ml Milk\n\n\n\n\nMethod\n\n\n\n\nAdd the flour and margarine to a pan over a very low heat. Stir\noccasionaly whilst the margarine melts.\n\n\nOnce the margarine is fully melted, stiry well to mix in the flour\nand form a dough ball.\n\n\nStart adding the milk a \nlittle\n at a time. After each splash, stir\nwell until completely mixed in.",
+            "text": "Roux Sauce\n\n\nIngredients\n\n\n\n\n25g flour\n\n\n25g margarine\n\n\n250ml milk\n\n\n\n\nOld Skool Method\n\n\n\n\nAdd the flour and margarine to a pan over a very low heat. Stir\noccasionaly whilst the margarine melts.\n\n\nOnce the margarine is fully melted, stiry well to mix in the flour\nand form a dough ball.\n\n\nStart adding the milk a \nlittle\n at a time. After each splash, stir\nwell until completely mixed in.\n\n\n\n\nLazy Method\n\n\n\n\nPour the milk into a blender. Add the margarine and flour. Blend for\n    1 1/2 to 2 minutes.\n\n\nPour into a sauce pan and bring to the boil, stirring all the while.",
             "title": "Roux Sauce"
         },
         {
@@ -22,87 +22,157 @@
         },
         {
             "location": "/Dictionary of Cooking/Roux Sauce/index.html#ingredients",
-            "text": "25g Flour  25g Margarine  250ml Milk",
+            "text": "25g flour  25g margarine  250ml milk",
             "title": "Ingredients"
         },
         {
-            "location": "/Dictionary of Cooking/Roux Sauce/index.html#method",
+            "location": "/Dictionary of Cooking/Roux Sauce/index.html#old-skool-method",
             "text": "Add the flour and margarine to a pan over a very low heat. Stir\noccasionaly whilst the margarine melts.  Once the margarine is fully melted, stiry well to mix in the flour\nand form a dough ball.  Start adding the milk a  little  at a time. After each splash, stir\nwell until completely mixed in.",
-            "title": "Method"
+            "title": "Old Skool Method"
         },
         {
-            "location": "/Own Recipes/Beef/Beef and Pineapple Curry/index.html",
-            "text": "Beef and Pineapple Curry\n\n\nServes 2\n\n\nIngredients\n\n\n\n\n1 Onion, chopped\n\n\n2 Garlic Cloves\n\n\n20g Ginger, chopped\n\n\n1 tsp Red Chilli, chopped\n\n\n1 tsp Coriander, ground\n\n\n1 tsp Cumin, ground\n\n\n1 tsp Turmeric, ground\n\n\n1 1/2 tsp Paprika\n\n\n1 1/2 tsp Fennel Seeds\n\n\n350g Beef, diced\n\n\n2 tbsp plain Yoghurt\n\n\n250ml Cocounut Cream, thick\n\n\n260g tin Pineapple Rings in juice, sliced into chunks.\n\n\n\n\nMethod\n\n\n\n\nFry the onion over a moderate heat for 5-10 minutes untill golden.\n\n\nTurn the heat down low. Add the garlic, ginger, chillis and spices.\n    Cook gently for 2 minutes, stirring all the time.\n\n\nAdd the beef, turn up the heat and fry until browned.\n\n\nAdd the yoghurt one spoonful at a time, stirring untill completely\n    absorbed.\n\n\nAdd the coconut cream, pineapple and juice. Simmer gently for 30 mins,\n    or until the suace is thickened. Stir frequently to prevent sticking.",
+            "location": "/Dictionary of Cooking/Roux Sauce/index.html#lazy-method",
+            "text": "Pour the milk into a blender. Add the margarine and flour. Blend for\n    1 1/2 to 2 minutes.  Pour into a sauce pan and bring to the boil, stirring all the while.",
+            "title": "Lazy Method"
+        },
+        {
+            "location": "/Gypsythief Cookbook/Beef/Beef and Pineapple Curry/index.html",
+            "text": "Beef and Pineapple Curry\n\n\nServes 2\n\n\nI use pineapple rings in this, as I find pre-diced pineapple chunks too big, \nso prefer to chop rings into smaller chunks. You can of course used diced \npineapple.\n\n\nIngredients\n\n\n\n\n1 onion, chopped\n\n\n2 garlic cloves\n\n\n20g ginger, chopped\n\n\n1 tsp red chilli, chopped\n\n\n1 tsp coriander, ground\n\n\n1 tsp cumin, ground\n\n\n1 tsp turmeric, ground\n\n\n1 1/2 tsp paprika\n\n\n1 1/2 tsp fennel Seeds\n\n\n350g beef, diced\n\n\n2 tbsp plain yoghurt\n\n\n250ml cocounut cream, thick\n\n\n260g tin pineapple rings in juice, sliced into chunks.\n\n\n\n\nMethod\n\n\n\n\nFry the onion over a moderate heat for 5-10 minutes until golden.\n\n\nTurn the heat down low. Add the garlic, ginger, chillies and spices.\n    Cook gently for 2 minutes, stirring all the time.\n\n\nAdd the beef, turn up the heat and fry until browned.\n\n\nAdd the yoghurt one spoonful at a time, stirring untill completely\n    absorbed.\n\n\nAdd the coconut cream, pineapple and juice. Simmer gently for 30 mins,\n    or until the suace is thickened. Stir frequently to prevent sticking.\n\n\n\n\nServe with rice.",
             "title": "Beef and Pineapple Curry"
         },
         {
-            "location": "/Own Recipes/Beef/Beef and Pineapple Curry/index.html#beef-and-pineapple-curry",
-            "text": "Serves 2",
+            "location": "/Gypsythief Cookbook/Beef/Beef and Pineapple Curry/index.html#beef-and-pineapple-curry",
+            "text": "",
             "title": "Beef and Pineapple Curry"
         },
         {
-            "location": "/Own Recipes/Beef/Beef and Pineapple Curry/index.html#ingredients",
-            "text": "1 Onion, chopped  2 Garlic Cloves  20g Ginger, chopped  1 tsp Red Chilli, chopped  1 tsp Coriander, ground  1 tsp Cumin, ground  1 tsp Turmeric, ground  1 1/2 tsp Paprika  1 1/2 tsp Fennel Seeds  350g Beef, diced  2 tbsp plain Yoghurt  250ml Cocounut Cream, thick  260g tin Pineapple Rings in juice, sliced into chunks.",
+            "location": "/Gypsythief Cookbook/Beef/Beef and Pineapple Curry/index.html#serves-2",
+            "text": "I use pineapple rings in this, as I find pre-diced pineapple chunks too big, \nso prefer to chop rings into smaller chunks. You can of course used diced \npineapple.",
+            "title": "Serves 2"
+        },
+        {
+            "location": "/Gypsythief Cookbook/Beef/Beef and Pineapple Curry/index.html#ingredients",
+            "text": "1 onion, chopped  2 garlic cloves  20g ginger, chopped  1 tsp red chilli, chopped  1 tsp coriander, ground  1 tsp cumin, ground  1 tsp turmeric, ground  1 1/2 tsp paprika  1 1/2 tsp fennel Seeds  350g beef, diced  2 tbsp plain yoghurt  250ml cocounut cream, thick  260g tin pineapple rings in juice, sliced into chunks.",
             "title": "Ingredients"
         },
         {
-            "location": "/Own Recipes/Beef/Beef and Pineapple Curry/index.html#method",
-            "text": "Fry the onion over a moderate heat for 5-10 minutes untill golden.  Turn the heat down low. Add the garlic, ginger, chillis and spices.\n    Cook gently for 2 minutes, stirring all the time.  Add the beef, turn up the heat and fry until browned.  Add the yoghurt one spoonful at a time, stirring untill completely\n    absorbed.  Add the coconut cream, pineapple and juice. Simmer gently for 30 mins,\n    or until the suace is thickened. Stir frequently to prevent sticking.",
+            "location": "/Gypsythief Cookbook/Beef/Beef and Pineapple Curry/index.html#method",
+            "text": "Fry the onion over a moderate heat for 5-10 minutes until golden.  Turn the heat down low. Add the garlic, ginger, chillies and spices.\n    Cook gently for 2 minutes, stirring all the time.  Add the beef, turn up the heat and fry until browned.  Add the yoghurt one spoonful at a time, stirring untill completely\n    absorbed.  Add the coconut cream, pineapple and juice. Simmer gently for 30 mins,\n    or until the suace is thickened. Stir frequently to prevent sticking.   Serve with rice.",
             "title": "Method"
         },
         {
-            "location": "/Own Recipes/Chicken/Chicken Bacon And Pasta Bake/index.html",
-            "text": "Chicken and Bacon Pasta Bake in a Cheese Sauce\n\n\nServes 2\n\n\nIngredients\n\n\n\n\nPasta for two\n\n\n1 Onion, chopped\n\n\n3 Large Cloves of Garlic, crushed\n\n\n1/2 tsp Paprika\n\n\n350g Chicken Breast, diced\n\n\n3 Rashers of Bacon, diced\n\n\n250ml Chicken Stock\n\n\n1 tsp Mixed Herbs\n\n\n\n\nCheese Sauce\n\n\n\n\n250ml \nRoux Sauce\n\n\n200g Mature Cheddar Cheese\n\n\n\n\nMethod\n\n\n\n\nPut the pasta on to cook, and preheat the oven to Gas Mark 6 / 200C\n\n\nWhilst the pasta is cooking, fry the onions in a little oil for 5-10\nminutes, until nicely golden.\n\n\nTurn the onions down low; add the garlic and paprika and fry gently\nfor 1 minute\n\n\nAdd the chicken and bacon, and fry until sealed.\n\n\nAdd the chicken stock and mixed herbs. Bring to the boil, then reduce\nto a rolling simmer. You want to reduce to a thick coating whilst\nmaking the cheese sauce.\n\n\nMake the cheese sauce: make a roux with the flour, margarine and\nmilk; add the cheese and stir until melted.\n\n\nCombine the pasta, chicken and cheese sauce in a casserole dish.\nPlace in the oven and cook for 20-25mins, until golden and crispy on top.",
+            "location": "/Gypsythief Cookbook/Beef/Chuffing Chilli/index.html",
+            "text": "Chuffing Chilli\n\n\nServes 2\n\n\nIngredients\n\n\n\n\n1 onion, chopped\n\n\n2 cloves of garlic, minced\n\n\n20g ginger, chopped\n\n\n1 tsp cumin, ground\n\n\n1 tsp paprika\n\n\n1/2 tsp cayenne\n\n\n1 cinnamon Stick\n\n\n350g minced beef\n\n\n1 400g tin of chopped tomatoes\n\n\n1 400g tin of kidney beans\n\n\n1 tbsp tomato puree\n\n\n1 large red pepper, chopped\n\n\n2 tbsp lime juice\n\n\n1/4 tsp oregano, dried\n\n\n200ml of water\n\n\n\n\nMethod\n\n\n\n\nFry the onion over a moderate heat for 5-10 minutes until golden.\n\n\nTurn the heat down low. Add the garlic, ginger, chillies and spices.\n    Cook gently for 2 minutes, stirring all the time.\n\n\nTurn the heat up and add the minced beef; fry until browned.\n\n\nAdd the tomatoes, kidney beans, puree, peppers, lime juice and oregano.\n    and water. Mix well, bring to the boil, and simmer for 30 minutes.\n\n\n\n\nServe with rice, tortillas and a dollop or two of plain youghurt if desired.",
+            "title": "Chuffing Chilli"
+        },
+        {
+            "location": "/Gypsythief Cookbook/Beef/Chuffing Chilli/index.html#chuffing-chilli",
+            "text": "",
+            "title": "Chuffing Chilli"
+        },
+        {
+            "location": "/Gypsythief Cookbook/Beef/Chuffing Chilli/index.html#serves-2",
+            "text": "",
+            "title": "Serves 2"
+        },
+        {
+            "location": "/Gypsythief Cookbook/Beef/Chuffing Chilli/index.html#ingredients",
+            "text": "1 onion, chopped  2 cloves of garlic, minced  20g ginger, chopped  1 tsp cumin, ground  1 tsp paprika  1/2 tsp cayenne  1 cinnamon Stick  350g minced beef  1 400g tin of chopped tomatoes  1 400g tin of kidney beans  1 tbsp tomato puree  1 large red pepper, chopped  2 tbsp lime juice  1/4 tsp oregano, dried  200ml of water",
+            "title": "Ingredients"
+        },
+        {
+            "location": "/Gypsythief Cookbook/Beef/Chuffing Chilli/index.html#method",
+            "text": "Fry the onion over a moderate heat for 5-10 minutes until golden.  Turn the heat down low. Add the garlic, ginger, chillies and spices.\n    Cook gently for 2 minutes, stirring all the time.  Turn the heat up and add the minced beef; fry until browned.  Add the tomatoes, kidney beans, puree, peppers, lime juice and oregano.\n    and water. Mix well, bring to the boil, and simmer for 30 minutes.   Serve with rice, tortillas and a dollop or two of plain youghurt if desired.",
+            "title": "Method"
+        },
+        {
+            "location": "/Gypsythief Cookbook/Chicken/Chicken Bacon And Pasta Bake/index.html",
+            "text": "Chicken and Bacon Pasta Bake in a Cheese Sauce\n\n\nServes 2\n\n\nIngredients\n\n\n\n\nPasta for two\n\n\n1 onion, chopped\n\n\n3 large cloves of garlic, crushed\n\n\n1/2 tsp paprika\n\n\n350g chicken breast, diced\n\n\n3 rashers of bacon, diced\n\n\n250ml chicken stock\n\n\n1 tsp mixed herbs\n\n\n\n\nCheese Sauce\n\n\n\n\n250ml \nroux sauce\n\n\n200g mature cheddar cheese\n\n\n\n\nMethod\n\n\n\n\nPut the pasta on to cook, and preheat the oven to Gas Mark 6 / 200C\n\n\nWhilst the pasta is cooking, fry the onions in a little oil for 5-10\nminutes, until nicely golden.\n\n\nTurn the onions down low; add the garlic and paprika and fry gently\nfor 1 minute\n\n\nAdd the chicken and bacon, and fry until sealed.\n\n\nAdd the chicken stock and mixed herbs. Bring to the boil, then reduce\nto a rolling simmer. You want to reduce to a thick coating whilst\nmaking the cheese sauce.\n\n\nMake the cheese sauce: make a roux with the flour, margarine and\nmilk; add the cheese and stir until melted.\n\n\nCombine the pasta, chicken and cheese sauce in a casserole dish.\nPlace in the oven and cook for 20-25mins, until golden and crispy on top.",
             "title": "Chicken Bacon And Pasta Bake"
         },
         {
-            "location": "/Own Recipes/Chicken/Chicken Bacon And Pasta Bake/index.html#chicken-and-bacon-pasta-bake-in-a-cheese-sauce",
-            "text": "Serves 2",
+            "location": "/Gypsythief Cookbook/Chicken/Chicken Bacon And Pasta Bake/index.html#chicken-and-bacon-pasta-bake-in-a-cheese-sauce",
+            "text": "",
             "title": "Chicken and Bacon Pasta Bake in a Cheese Sauce"
         },
         {
-            "location": "/Own Recipes/Chicken/Chicken Bacon And Pasta Bake/index.html#ingredients",
-            "text": "Pasta for two  1 Onion, chopped  3 Large Cloves of Garlic, crushed  1/2 tsp Paprika  350g Chicken Breast, diced  3 Rashers of Bacon, diced  250ml Chicken Stock  1 tsp Mixed Herbs",
+            "location": "/Gypsythief Cookbook/Chicken/Chicken Bacon And Pasta Bake/index.html#serves-2",
+            "text": "",
+            "title": "Serves 2"
+        },
+        {
+            "location": "/Gypsythief Cookbook/Chicken/Chicken Bacon And Pasta Bake/index.html#ingredients",
+            "text": "Pasta for two  1 onion, chopped  3 large cloves of garlic, crushed  1/2 tsp paprika  350g chicken breast, diced  3 rashers of bacon, diced  250ml chicken stock  1 tsp mixed herbs",
             "title": "Ingredients"
         },
         {
-            "location": "/Own Recipes/Chicken/Chicken Bacon And Pasta Bake/index.html#cheese-sauce",
-            "text": "250ml  Roux Sauce  200g Mature Cheddar Cheese",
+            "location": "/Gypsythief Cookbook/Chicken/Chicken Bacon And Pasta Bake/index.html#cheese-sauce",
+            "text": "250ml  roux sauce  200g mature cheddar cheese",
             "title": "Cheese Sauce"
         },
         {
-            "location": "/Own Recipes/Chicken/Chicken Bacon And Pasta Bake/index.html#method",
+            "location": "/Gypsythief Cookbook/Chicken/Chicken Bacon And Pasta Bake/index.html#method",
             "text": "Put the pasta on to cook, and preheat the oven to Gas Mark 6 / 200C  Whilst the pasta is cooking, fry the onions in a little oil for 5-10\nminutes, until nicely golden.  Turn the onions down low; add the garlic and paprika and fry gently\nfor 1 minute  Add the chicken and bacon, and fry until sealed.  Add the chicken stock and mixed herbs. Bring to the boil, then reduce\nto a rolling simmer. You want to reduce to a thick coating whilst\nmaking the cheese sauce.  Make the cheese sauce: make a roux with the flour, margarine and\nmilk; add the cheese and stir until melted.  Combine the pasta, chicken and cheese sauce in a casserole dish.\nPlace in the oven and cook for 20-25mins, until golden and crispy on top.",
             "title": "Method"
         },
         {
-            "location": "/Own Recipes/Chicken/Chicken Mole/index.html",
-            "text": "Chicken Mole with Coriander & Lime Rice\n\n\nServes 2\n\n\nIngredients\n\n\nSauce\n\n\n\n\n1 Ancho Chillie\n\n\n1 Onion, chopped\n\n\n1 tsp Cumin, ground\n\n\n1 tsp Coriander, ground\n\n\n350g Chicken, diced\n\n\n2 Garlic Cloves\n\n\n25g Raisins\n\n\n1 tbsp Peanut Butter\n\n\n1 Cinnamon stick\n\n\n1 tbsp Lime Juice\n\n\n150ml Sour Cream\n\n\n12.5g Milk Chocolate\n\n\n\n\nRice\n\n\n\n\n160g Basmati Rice\n\n\nBunch of Coriander, chopped\n\n\nZest of 1 Lime, juice of half.\n\n\n\n\nMethod\n\n\n\n\nSlice the chillies in half; remove the seeds and stalk. Dry fry in a \npan for 1-2 mins until they smell fragrant. Remove from pan, place in a \nbowl and cover with 300ml of boiling water. Soak for at least 20 \nminutes.\n\n\nWhilst the chillies are soaking, gently fry the onions for 10 \nminutes until golden. Turn down the heat, and add the cumin and \ncoriander; fry gently for 1-2 minutes.\n\n\nAdd the chicken and fry until sealed.\n\n\nWhilst the chicken is cooking, place the chillies and liquid into a \nblender. Add the garlic, raisins & peanut butter, and blend until \nsmooth.\n\n\nAdd the blended chillie sauce to the pan; add the cinnamon stick & \nlime juice and stir in the sour cream & chocolate. Bring to the boil, \nreduce the heat and simmer for 20-30 mins.\n\n\nCook the rice according to your prefered method. Whilst cooking, chop \nthe coriandor and grate the lime zest. When the rice is done, drain and \nadd the coriander, lime zest and lime juice.",
+            "location": "/Gypsythief Cookbook/Chicken/Chicken Mole/index.html",
+            "text": "Chicken Mole with Coriander & Lime Rice\n\n\nServes 2\n\n\nIngredients\n\n\nSauce\n\n\n\n\n1 ancho chillie, dried\n\n\n1 onion, chopped\n\n\n1 tsp cumin, ground\n\n\n1 tsp coriander, ground\n\n\n350g chicken, diced\n\n\n2 garlic Cloves\n\n\n25g raisins\n\n\n1 tbsp peanut butter\n\n\n1 cinnamon stick\n\n\n1 tbsp lime juice\n\n\n150ml sour cream\n\n\n12.5g milk chocolate\n\n\n\n\nRice\n\n\n\n\nBasmati rice for two\n\n\nBunch of fresh coriander, chopped\n\n\nZest of 1 lime, juice of half\n\n\n\n\nMethod\n\n\n\n\nSlice the chillies in half; remove the seeds and stalk. Dry fry in a \npan for 1-2 mins until they smell fragrant. Remove from pan, place in a \nbowl and cover with 300ml of boiling water. Soak for at least 20 \nminutes.\n\n\nFry the onion over a moderate heat for 5-10 minutes until golden.\n\n\nTurn the heat down low. Add the spices and cook gently for 2 minutes,\n    stirring all the time.\n\n\nAdd the chicken and fry until sealed.\n\n\nWhilst the chicken is cooking, place the chillies and liquid into a \nblender. Add the garlic, raisins & peanut butter, and blend until \nsmooth.\n\n\nAdd the blended chillie sauce to the pan; add the cinnamon stick & \nlime juice and stir in the sour cream & chocolate. Bring to the boil, \nreduce the heat and simmer for 20-30 mins.\n\n\nCook the rice according to your prefered method. Whilst cooking, chop \nthe coriandor and grate the lime zest. When the rice is done, drain and \nadd the coriander, lime zest and lime juice.",
             "title": "Chicken Mole"
         },
         {
-            "location": "/Own Recipes/Chicken/Chicken Mole/index.html#chicken-mole-with-coriander-lime-rice",
-            "text": "Serves 2",
+            "location": "/Gypsythief Cookbook/Chicken/Chicken Mole/index.html#chicken-mole-with-coriander-lime-rice",
+            "text": "",
             "title": "Chicken Mole with Coriander &amp; Lime Rice"
         },
         {
-            "location": "/Own Recipes/Chicken/Chicken Mole/index.html#ingredients",
+            "location": "/Gypsythief Cookbook/Chicken/Chicken Mole/index.html#serves-2",
+            "text": "",
+            "title": "Serves 2"
+        },
+        {
+            "location": "/Gypsythief Cookbook/Chicken/Chicken Mole/index.html#ingredients",
             "text": "",
             "title": "Ingredients"
         },
         {
-            "location": "/Own Recipes/Chicken/Chicken Mole/index.html#sauce",
-            "text": "1 Ancho Chillie  1 Onion, chopped  1 tsp Cumin, ground  1 tsp Coriander, ground  350g Chicken, diced  2 Garlic Cloves  25g Raisins  1 tbsp Peanut Butter  1 Cinnamon stick  1 tbsp Lime Juice  150ml Sour Cream  12.5g Milk Chocolate",
+            "location": "/Gypsythief Cookbook/Chicken/Chicken Mole/index.html#sauce",
+            "text": "1 ancho chillie, dried  1 onion, chopped  1 tsp cumin, ground  1 tsp coriander, ground  350g chicken, diced  2 garlic Cloves  25g raisins  1 tbsp peanut butter  1 cinnamon stick  1 tbsp lime juice  150ml sour cream  12.5g milk chocolate",
             "title": "Sauce"
         },
         {
-            "location": "/Own Recipes/Chicken/Chicken Mole/index.html#rice",
-            "text": "160g Basmati Rice  Bunch of Coriander, chopped  Zest of 1 Lime, juice of half.",
+            "location": "/Gypsythief Cookbook/Chicken/Chicken Mole/index.html#rice",
+            "text": "Basmati rice for two  Bunch of fresh coriander, chopped  Zest of 1 lime, juice of half",
             "title": "Rice"
         },
         {
-            "location": "/Own Recipes/Chicken/Chicken Mole/index.html#method",
-            "text": "Slice the chillies in half; remove the seeds and stalk. Dry fry in a \npan for 1-2 mins until they smell fragrant. Remove from pan, place in a \nbowl and cover with 300ml of boiling water. Soak for at least 20 \nminutes.  Whilst the chillies are soaking, gently fry the onions for 10 \nminutes until golden. Turn down the heat, and add the cumin and \ncoriander; fry gently for 1-2 minutes.  Add the chicken and fry until sealed.  Whilst the chicken is cooking, place the chillies and liquid into a \nblender. Add the garlic, raisins & peanut butter, and blend until \nsmooth.  Add the blended chillie sauce to the pan; add the cinnamon stick & \nlime juice and stir in the sour cream & chocolate. Bring to the boil, \nreduce the heat and simmer for 20-30 mins.  Cook the rice according to your prefered method. Whilst cooking, chop \nthe coriandor and grate the lime zest. When the rice is done, drain and \nadd the coriander, lime zest and lime juice.",
+            "location": "/Gypsythief Cookbook/Chicken/Chicken Mole/index.html#method",
+            "text": "Slice the chillies in half; remove the seeds and stalk. Dry fry in a \npan for 1-2 mins until they smell fragrant. Remove from pan, place in a \nbowl and cover with 300ml of boiling water. Soak for at least 20 \nminutes.  Fry the onion over a moderate heat for 5-10 minutes until golden.  Turn the heat down low. Add the spices and cook gently for 2 minutes,\n    stirring all the time.  Add the chicken and fry until sealed.  Whilst the chicken is cooking, place the chillies and liquid into a \nblender. Add the garlic, raisins & peanut butter, and blend until \nsmooth.  Add the blended chillie sauce to the pan; add the cinnamon stick & \nlime juice and stir in the sour cream & chocolate. Bring to the boil, \nreduce the heat and simmer for 20-30 mins.  Cook the rice according to your prefered method. Whilst cooking, chop \nthe coriandor and grate the lime zest. When the rice is done, drain and \nadd the coriander, lime zest and lime juice.",
+            "title": "Method"
+        },
+        {
+            "location": "/Gypsythief Cookbook/Chicken/Fine Ferocious Fajitas/index.html",
+            "text": "Fine Ferocious Fajitas\n\n\nServes 2\n\n\nThese aren't too ferocious any more, they've been toned down over time.\n\n\nIf you'd like a bit more kick, increase the cayenne, replace the chillies\nwith Bird's Eye chillis, and add a tablespoon of white wine vinegar. \n\n\nIngredients\n\n\n\n\n1 onion, finely chopped\n\n\n2 garlic cloves, minced\n\n\n20g ginger, chopped\n\n\n1 tsp red chillies, chopped\n\n\n1 tsp cumin, ground\n\n\n1 tsp paprika\n\n\n1 tsp cayenne\n\n\n2 tsp demerara sugar\n\n\n1 cinnamon stick\n\n\n2 tbsp tomato puree\n\n\n3 bell peppers, fairly finely sliced\n\n\n\n\nMethod\n\n\n\n\nFry the onion over a high heat for 5-10 minutes until well browned.\n\n\nTurn the heat down low. Add the garlic, ginger, chillies, spices and sugar\n    Cook gently for 2 minutes, stirring all the time.\n\n\nAdd the chicken, turn up the heat and cook until it is just cooked through.\n\n\nAdd the tomato puree and a small splash of water; stir well to coat the chicken.\n\n\nAdd the pepper strips and cook over a high heat for 5 minutes, until\n    the peppers are softened and the chicken is done.\n\n\n\n\nServe wrapped in tortillas with sour cream or plain yoghurt.",
+            "title": "Fine Ferocious Fajitas"
+        },
+        {
+            "location": "/Gypsythief Cookbook/Chicken/Fine Ferocious Fajitas/index.html#fine-ferocious-fajitas",
+            "text": "",
+            "title": "Fine Ferocious Fajitas"
+        },
+        {
+            "location": "/Gypsythief Cookbook/Chicken/Fine Ferocious Fajitas/index.html#serves-2",
+            "text": "These aren't too ferocious any more, they've been toned down over time.  If you'd like a bit more kick, increase the cayenne, replace the chillies\nwith Bird's Eye chillis, and add a tablespoon of white wine vinegar.",
+            "title": "Serves 2"
+        },
+        {
+            "location": "/Gypsythief Cookbook/Chicken/Fine Ferocious Fajitas/index.html#ingredients",
+            "text": "1 onion, finely chopped  2 garlic cloves, minced  20g ginger, chopped  1 tsp red chillies, chopped  1 tsp cumin, ground  1 tsp paprika  1 tsp cayenne  2 tsp demerara sugar  1 cinnamon stick  2 tbsp tomato puree  3 bell peppers, fairly finely sliced",
+            "title": "Ingredients"
+        },
+        {
+            "location": "/Gypsythief Cookbook/Chicken/Fine Ferocious Fajitas/index.html#method",
+            "text": "Fry the onion over a high heat for 5-10 minutes until well browned.  Turn the heat down low. Add the garlic, ginger, chillies, spices and sugar\n    Cook gently for 2 minutes, stirring all the time.  Add the chicken, turn up the heat and cook until it is just cooked through.  Add the tomato puree and a small splash of water; stir well to coat the chicken.  Add the pepper strips and cook over a high heat for 5 minutes, until\n    the peppers are softened and the chicken is done.   Serve wrapped in tortillas with sour cream or plain yoghurt.",
             "title": "Method"
         }
     ]

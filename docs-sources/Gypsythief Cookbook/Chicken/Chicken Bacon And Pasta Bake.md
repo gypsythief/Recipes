@@ -1,18 +1,20 @@
 ## Chicken and Bacon Pasta Bake in a Cheese Sauce
-Serves 2
+
+#### Serves 2
+
 ### Ingredients
 * Pasta for two
-* 1 Onion, chopped
-* 3 Large Cloves of Garlic, crushed
-* 1/2 tsp Paprika
-* 350g Chicken Breast, diced
-* 3 Rashers of Bacon, diced
-* 250ml Chicken Stock
-* 1 tsp Mixed Herbs
+* 1 onion, chopped
+* 3 large cloves of garlic, crushed
+* 1/2 tsp paprika
+* 350g chicken breast, diced
+* 3 rashers of bacon, diced
+* 250ml chicken stock
+* 1 tsp mixed herbs
 
 #### Cheese Sauce
-* 250ml [Roux Sauce](../../Dictionary of Cooking/Roux Sauce/)
-* 200g Mature Cheddar Cheese
+* 250ml [roux sauce](../../Dictionary of Cooking/Roux Sauce/)
+* 200g mature cheddar cheese
 
 ### Method
 1. Put the pasta on to cook, and preheat the oven to Gas Mark 6 / 200C

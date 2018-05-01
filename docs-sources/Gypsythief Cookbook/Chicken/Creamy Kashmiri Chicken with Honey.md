@@ -1,5 +1,5 @@
 ## Creamy Kashmiri Chicken with Honey
-
+Based on "Loyd Grossman Creamy Honey & Kashmiri Chilli Butter Chicken" packet sauce.
 #### Serves 2
 
 ### Ingredients

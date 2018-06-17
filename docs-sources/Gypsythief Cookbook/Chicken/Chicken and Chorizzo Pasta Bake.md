@@ -1,6 +1,6 @@
-## Title
+## Chicken and Chorizzo Pasta Bake
 
-#### Serves 2
+#### Serves 3
 
 ### Ingredients
 * 160g fusilli pasta

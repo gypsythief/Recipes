@@ -12,8 +12,8 @@
 * 2 garlic cloves, crushed
 * 1 tsp paprika
 * 1/2 tsp smoked paprika
+* 300g chicken breast, diced
 * 1 tin of chopped tomatoes
-* 1 tblsp tomato puree
 * 2 tsp dried basil
 * cheddar, grated
 * breadcrumbs
@@ -27,10 +27,11 @@ pan and fry.
 4. Whilst the onions are frying, chop then add the mushrooms.
 5. Chop and add the pepper.
 6. Chop and add the courgette.
-7. Add the garlic and paprika and fry gently for 1-2 minutes.
+7. Add the garlic and paprika and fry gently for 1-2 minutes. Add the 
+chicken and cook gently until sealed.
 8. Add the tomatoes, puree and the basil and mix in; tip in the pasta 
 and mix well.
 9. Tip the mixture into a large, shallow oven-proof dish. Cover with 
-a layer of grated cheese, then a layer of breadcrumbs. Bake at gas mark 6
-for 30 minutes, until golden and crispy on top.
+a layer of grated cheese, then a layer of breadcrumbs. Bake at gas mark 
+6 for 30 minutes, until golden and crispy on top.
 

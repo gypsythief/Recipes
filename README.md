@@ -1,2 +1,2 @@
 # Gypsythief Recipes
-MkDoc source files for www.gypsythief.org.uk/Recipes
+MkDoc source files for https://recipes.rwf.org.uk
